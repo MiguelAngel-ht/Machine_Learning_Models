@@ -1,0 +1,23 @@
+What is this?
+What are the components of a chat bot?
+Where I am?
+What province I am?
+In which city I am?
+Which are the weekdays?
+Which are the weekends?
+When is going to snow?
+What station Canadians like?
+What is the best food?
+What is the best dish?
+Canadians like hot salsa?
+Mexicans like hot salsa?
+What color is the sky?
+What color is the sea?
+Is winter cold?
+Is summer cold?
+How is the sun?
+Does the Moon has light?
+How much time takes the moon to rotate?
+What color is the grass?
+What color is the water?
+Test?
