@@ -1,0 +1,23 @@
+This is a very simple FAQ bot skeleton. Flesh this out into your very own FAQ bot.
+The basic chat bot pipeline consists of the following components: Speech Recognition, Natural Language Understanding, Dialog Management, Natural Language Generation, and Text to Speech Synthesis. Not all chat bots use every component.
+You are in Canada
+You are in the province of Ontario
+You are in Hamilton City
+Weekdays are Monday - Friday
+Weekends are Saturdays and Sundays
+Snows in Winter the mosf of the time
+Canadians like Summer rahter than Winter
+Best food in the worls is Mexican Food
+Tacos are the best dish in the world
+Canadians like mild salsa
+Mexicans like hot, hot very hot salsa
+Sky is mostly blue
+The sea is blue
+Winter is cold
+Summer is hot
+Sun si shinny
+The Moon does not have light buts reflect the sun ligth
+The moon takes about 28 days to rotate
+Grass is green
+Water is clear
+Answer
